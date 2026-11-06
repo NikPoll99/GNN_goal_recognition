@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+env/
+.DS_Store
+*.egg-info/
+build/
+dist/
+wandb/
+gnn/
+Resulted_dataset/
+util_commands.txt
+*.json
